@@ -1,0 +1,10 @@
+.AccountCard{
+    border: 1px solid rgb(202, 170, 170);
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    display: block;
+    margin: 1rem;
+    width: 100%;
+    background: white;
+}
+

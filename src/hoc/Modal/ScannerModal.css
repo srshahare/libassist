@@ -1,0 +1,21 @@
+.Videoview {
+    position: relative;
+    width: 640px;
+    height: 480px;
+  }
+ 
+.Video {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1
+}
+ 
+.Overlay {
+    position: absolute;
+    top: 100;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2
+}

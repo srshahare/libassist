@@ -1,0 +1,8 @@
+.Container{
+    width: calc(100% - 250px);
+    padding-top: 32px;
+    position: absolute;
+    right: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

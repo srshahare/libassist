@@ -1,0 +1,64 @@
+.DataCardList{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.TotalBooks{
+    background: orangered;
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    box-shadow: 0 4px 8px #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    top: -20%;
+    left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.IssuedBooks{
+    background: green;
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    box-shadow: 0 4px 8px #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    top: -20%;
+    left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TotalStudents{
+    background: purple;
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    box-shadow: 0 4px 8px #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    top: -20%;
+    left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TotalBookings{
+    background: rgb(26, 58, 100);
+    position: absolute;
+    width: 30%;
+    height: 50%;
+    box-shadow: 0 4px 8px #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    top: -20%;
+    left: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

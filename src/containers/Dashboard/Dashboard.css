@@ -1,0 +1,20 @@
+.Dashboard{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Paper{
+    height: 350px;
+    border-radius: 8px;
+    border: 1px solid rgb(231, 231, 231);
+    box-shadow: 0 8px 8px rgba(0,0,0,.5);
+    margin: 2rem;
+    display: flex;
+    background: white;
+}
+
+.Analysis{
+    margin-left: 2rem;
+    font-weight: normal;
+    color: slateblue;
+}

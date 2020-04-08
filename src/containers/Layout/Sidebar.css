@@ -1,0 +1,9 @@
+.Sidebar{
+    overflow-y: scroll;
+    width: 250px;
+    height: calc(100vh - 56px);;
+    overflow-x: hidden;
+    position: fixed;
+    background: white;
+    z-index: 90;
+}
