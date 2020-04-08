@@ -12,4 +12,22 @@ To make this app working add following lines
 or you can just go to the directory where you cloned the repository and run "npm install" which will install all the  necessary dependencies required for the project.
 
 Cool Dashboard created using Material Ui
-![Image description](https://github.com/Shashank358/libassist/previews/master/dashboard.png)
+![Image description](https://github.com/Shashank358/libassist/blob/master/preview/dashboard.png)
+
+Add new student in order to reset password and login as student
+![Image description](https://github.com/Shashank358/libassist/blob/master/preview/student.png)
+
+Student list will show in table fromat
+![Image description](https://github.com/Shashank358/libassist/blob/master/preview/table.png)
+
+Scan barcode from student id card to access his/her information
+![Image description](https://github.com/Shashank358/libassist/blob/master/preview/scan.png)
+
+Admin Profile
+![Image description](https://github.com/Shashank358/libassist/blob/master/preview/profile.png)
+
+Books List
+![Image description](https://github.com/Shashank358/libassist/blob/master/preview/books.png)
+
+
+
