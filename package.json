@@ -1,6 +1,6 @@
 {
   "name": "authentication",
-  "homepage": "http://Shashank358.github.io/my-app",
+  "homepage": "http://Shashank358.github.io/libassist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -51,6 +51,7 @@
     "quagga": "^0.12.1",
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
+    "react-barcode-reader": "0.0.2",
     "react-dev-utils": "^10.2.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
@@ -74,7 +75,9 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -145,8 +148,5 @@
     "presets": [
       "react-app"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.2.0"
   }
 }
